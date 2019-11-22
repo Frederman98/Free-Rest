@@ -2,7 +2,5 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#FFFFFF</color>
-    <color name="Fondo">#0E3C5B</color>
-    <color name="Campos">#6D94AF</color>
+    <color name="colorAccent">#D81B60</color>
 </resources>
